@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
@@ -14,7 +12,7 @@
 
 ###
 
-<h3 align="left">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-end.  <br>Tenho conhecimentos em Python e atualmente estou me especializando em JavaScript e C#.  <br><br>Busco crescer na área de tecnologia com foco em cybersecurity e desenvolvimento de sistemas.</h3>
+<h4 align="left">Sou estudante de Engenharia de Software com foco em desenvolvimento Back-end.  <br>Tenho conhecimentos em Python e atualmente estou me especializando em JavaScript e C#.  <br><br>Busco crescer na área de tecnologia com foco em cybersecurity e desenvolvimento de sistemas.</h4>
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<h3 align="left">💬 Ask me about:<br><br>Python<br><br>Desenvolvimento Back-end<br><br>Rotina de estudos em tecnologia<br><br><br>🎯 Outside tech:<br><br>💜 Gosto de aprender coisas novas, organizar minha rotina e evoluir todos os dias.<br>🎧 Curto ouvir música e acompanhar conteúdos sobre tecnologia.<br><br><br>📬 Reach me at:<br>📧 aline_odcosta@hotmail.com</h3>
+<h4 align="left">💬 Ask me about:<br><br>Python<br><br>Desenvolvimento Back-end<br><br>Rotina de estudos em tecnologia<br><br><br>🎯 Outside tech:<br><br>💜 Gosto de aprender coisas novas, organizar minha rotina e evoluir todos os dias.<br>🎧 Curto ouvir música e acompanhar conteúdos sobre tecnologia.<br><br><br>📬 Reach me at:<br>📧 aline_odcosta@hotmail.com</h4>
 
 ###
 
@@ -63,5 +61,4 @@
 </div>
 
 ###
-
 <br clear="both">
