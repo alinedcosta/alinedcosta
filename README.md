@@ -1,111 +1,75 @@
-<div align="center">
+<h1 align="center">Hey, I'm Aline</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey,%20I'm%20Aline%20Oliveira%20👋&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Backend%20Developer%20in%20progress%20|%20Java%20%26%20Spring%20Boot&descColor=a8b2d8&descSize=18&descAlignY=58&animation=fadeIn" />
-
-</div>
-
----
+###
 
 <div align="center">
-
-### 🚀 About Me
-
+  <img height="254" src="https://i.pinimg.com/originals/68/71/35/687135b720ac7a44467ef3dcb96be052.gif"  />
 </div>
 
-```java
-public class Aline extends Developer {
+###
 
-    String[] currentFocus  = {"Java", "Spring Boot", "REST APIs"};
-    String   degree        = "Software Engineering (in progress)";
-    String   speciality    = "Backend Development";
-    boolean  openToLearn   = true;
+<h3 align="center">About Me</h3>
 
-    void goals() {
-        System.out.println("Building solid backend systems");
-        System.out.println("Mastering Java & Spring Boot");
-        System.out.println("Growing one project at a time");
-    }
-}
-```
+###
 
----
+<h4 align="left">I'm Software Engineering student, actively working on improving my programming experience and exploring various areas of the IT industry. My academic and personal learning journey is focused on backend development, and I've been diving deeper into Java. I'm particularly passionate about building systems and applications, I love challenging myself and pushing my limits. My long-term goal is to grow and specialize in Java development. I'm currently working with Spring Boot, REST APIs, SQL and Git.</h4>
+
+###
+
+<h3 align="left">Connect me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alineodcosta/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@alinedcosta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://outlook.live.com/mail/aline_odcosta@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">Github Status</h3>
+
+###
 
 <div align="center">
-
-### 🛠️ Tech Stack
-
+  <img src="https://streak-stats.demolab.com?user=alinedcosta&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="center">Skills</h3>
+
+###
 
 <div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Tools**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
----
+###
 
-<div align="center">
+<br clear="both">
 
-### 📌 Featured Project
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinedcosta/alinedcosta/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinedcosta/alinedcosta/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alinedcosta/alinedcosta/pacman-output/galaga-contribution-graph.svg">
+</picture>
 
-</div>
-
-<div align="center">
-
-[![FinanceFlow](https://github-readme-stats.vercel.app/api/pin/?username=alinedcosta&repo=FinanceFlow&theme=tokyonight&border_color=e94560)](https://github.com/alinedcosta/FinanceFlow)
-
-</div>
-
-> 💰 **FinanceFlow** — A personal finance web application. Currently built with Python, being rewritten in Java with Spring Boot.
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alinedcosta&show_icons=true&theme=tokyonight&border_color=e94560&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedcosta&layout=compact&theme=tokyonight&border_color=e94560" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alinedcosta&theme=tokyonight&border=e94560&ring=e94560&fire=ff6b6b)
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alinedcosta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aline_odcosta@hotmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Every expert was once a beginner. Keep building."* 🔥
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
-
-</div>
+###
